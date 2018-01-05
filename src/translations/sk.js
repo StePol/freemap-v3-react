@@ -2,7 +2,7 @@
 
 export default {
   general: {
-    elevationProfile: 'Výškovy profil',
+    elevationProfile: 'Výškový profil',
     save: 'Uložiť',
     cancel: 'Zrušiť',
     modify: 'Upraviť',
@@ -37,7 +37,7 @@ export default {
   routePlanner: {
     start: 'Štart',
     finish: 'Cieľ',
-    swap: 'Prehodiť štart a clieľ',
+    swap: 'Prehodiť štart a cieľ',
     point: {
       pick: 'Vybrať na mape',
       current: 'Tvoja poloha',
@@ -70,7 +70,7 @@ export default {
         turn: 'odbočte',
         'new name': 'choďte',
         depart: 'začnite',
-        arrive: 'ukončte',
+        arrive: 'ukončite',
         merge: 'pokračujte',
         // 'ramp':
         'on ramp': 'choďte na príjazdovú cestu',
@@ -277,7 +277,7 @@ export default {
     account: {
       name: 'Meno',
       email: 'E-Mail',
-      noAuthInfo: 'Dostupné iba pre prihásených používateľov.',
+      noAuthInfo: 'Dostupné iba pre prihlásených používateľov.',
     },
     general: {
       tips: 'Zobrazovať tipy po otvorení stránky',
@@ -326,7 +326,7 @@ export default {
       7: 'Energetika',
       8: 'Ubytovanie a Stravovanie',
       9: 'Turizmus, turistika',
-      10: 'Uzemné členenie',
+      10: 'Územné členenie',
       11: 'Ostatné',
       12: 'Voľný čas',
       13: 'Šport',
@@ -380,7 +380,7 @@ export default {
       47: 'Prístrešok, altánok',
       48: 'Poštový úrad',
       49: 'Pamätník, bojisko',
-      50: 'Polovnícky posed',
+      50: 'Poľovnícky posed',
       51: 'Vysielač',
       52: 'Rozhľadňa',
       53: 'Motel',
@@ -744,7 +744,7 @@ export default {
       <p>
         Prosíme Ťa, <a href="https://github.com/FreemapSlovakia/freemap-v3-react/issues/new" target="_blank" rel="noopener noreferrer">nahlás nám túto chybu</a>,
         prípadne nám ju pošli na <a href="mailto:freemap@freemap.sk?subject=Nahlásenie%20chyby%20na%20www.freemap.sk">freemap@freemap.sk</a>.
-        Nezabudni, prosím, priložiť krátky popis, ako sa ti podarilo vyvolať chybu a nižšieuvedené dáta pre ladenie.
+        Nezabudni, prosím, priložiť krátky popis, ako sa ti podarilo vyvolať chybu a nižšie uvedené dáta pre ladenie.
       </p>
       <p>
         Ďakujeme.
